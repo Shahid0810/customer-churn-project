@@ -7,9 +7,9 @@ The project uses **Logistic Regression** for classification and **Streamlit** to
 ---
 
 ## 🚀 Live Demo
+## 🚀 Live Demo
 
-👉 [Customer Churn Prediction - Live App](https://customer-churn-project-ky3ynp8qovq5jb9.streamlit.app)
-
+👉 [Customer Churn Prediction – Live App](https://customer-churn-project-ky3ynp8hywgtx8qovq5jb9.streamlit.app)
 ---
 
 ## 📌 Project Overview
